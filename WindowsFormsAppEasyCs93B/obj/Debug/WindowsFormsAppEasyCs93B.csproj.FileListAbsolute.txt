@@ -1,0 +1,10 @@
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\bin\Debug\WindowsFormsAppEasyCs93B.exe.config
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\bin\Debug\WindowsFormsAppEasyCs93B.exe
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\bin\Debug\WindowsFormsAppEasyCs93B.pdb
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\obj\Debug\WindowsFormsAppEasyCs93B.csproj.AssemblyReference.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\obj\Debug\WindowsFormsAppEasyCs93B.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\obj\Debug\WindowsFormsAppEasyCs93B.Properties.Resources.resources
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\obj\Debug\WindowsFormsAppEasyCs93B.csproj.GenerateResource.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\obj\Debug\WindowsFormsAppEasyCs93B.csproj.CoreCompileInputs.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\obj\Debug\WindowsFormsAppEasyCs93B.exe
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs93B\WindowsFormsAppEasyCs93B\obj\Debug\WindowsFormsAppEasyCs93B.pdb
